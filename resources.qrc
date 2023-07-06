@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/plugins/telepacloader" >
+        <file>alien.png</file>
+    </qresource>
+    <qresource prefix="/plugins/telepacloader" >
+        <file>logo.png</file>
+    </qresource>
+    <qresource prefix="/plugins/telepacloader" >
+        <file>qgis-logo.png</file>
+    </qresource>
+    <qresource prefix="/plugins/telepacloader" >
+        <file>world.png</file>
+    </qresource>
+    <qresource prefix="/plugins/telepacloader" >
+        <file>alpha.png</file>
+    </qresource>
+</RCC>
